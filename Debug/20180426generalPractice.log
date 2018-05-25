@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/5/17 星期四 9:47:04。
+     1>项目“E:\Visual Studio 2013安装目录\A-1项目及代码文件位置\c++日常练习\20180426generalPractice\20180426generalPractice\20180426generalPractice.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Visual Studio 2013安装目录\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\20180426generalPractice.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "模板丨类模板与函数模板.cpp"
+         模板丨类模板与函数模板.cpp
+       Link:
+         E:\Visual Studio 2013安装目录\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Visual Studio 2013安装目录\A-1项目及代码文件位置\c++日常练习\20180426generalPractice\Debug\20180426generalPractice.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Visual Studio 2013安装目录\A-1项目及代码文件位置\c++日常练习\20180426generalPractice\Debug\20180426generalPractice.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Visual Studio 2013安装目录\A-1项目及代码文件位置\c++日常练习\20180426generalPractice\Debug\20180426generalPractice.lib" /MACHINE:X86 Debug\stdafx.obj
+         "Debug\模板丨类模板与函数模板.obj"
+         20180426generalPractice.vcxproj -> E:\Visual Studio 2013安装目录\A-1项目及代码文件位置\c++日常练习\20180426generalPractice\Debug\20180426generalPractice.exe
+     1>已完成生成项目“E:\Visual Studio 2013安装目录\A-1项目及代码文件位置\c++日常练习\20180426generalPractice\20180426generalPractice\20180426generalPractice.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.31
